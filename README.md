@@ -1,0 +1,1 @@
+brute force solution to facebook hacker cup question: bomb puzzle
